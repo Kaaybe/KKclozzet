@@ -154,12 +154,14 @@ section {
  .discover {
     align-items: center;
     padding: 2%;
+    text-align: center;
  }
 
  #discover1 {
     background-color: black;
     height: 5px;
     width: 200px;
+    
  }
  .img1 {
     height: 100%;
@@ -186,6 +188,14 @@ section {
  .Telfeezy{
     width: 30%;
     height: 50vh;
-
-
+ }
+ 
+ #nme {
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
  }
